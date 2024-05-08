@@ -19,8 +19,8 @@ Welcome to Text Manipulator, a React application designed to simplify text trans
 
 To get started with Text Manipulator, follow these simple steps:
 
-1. **Clone the Repository:** `git clone https://github.com/your-username/text-manipulator.git`
-2. **Navigate to the Project Directory:** `cd text-manipulator`
+1. **Clone the Repository:** `git clone https://github.com/MrSharma151/Text-Manipulator.git`
+2. **Navigate to the Project Directory:** `cd Text-Manipulator`
 3. **Install Dependencies:** `npm install` or `yarn install`
 4. **Run the Development Server:** `npm start` or `yarn start`
 5. **Open the Application:** Visit `http://localhost:3000` in your web browser.
